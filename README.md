@@ -1,6 +1,7 @@
 # Not Coders Jump Game
 
-Just do something fun with Google Flutter Build Mobile Game Application like TREX / Dino on Google Chrome.
+Just did something fun with Google Flutter Build Mobile Game Application like TREX / Dino on Google Chrome.
+Download the App Now : https://mega.nz/file/QJpGGYAA#DTf7tESS_RmPa3F5pV1vm4o0XHvwUw37CCeSkGGjqkk
 
 ### Installing
 
