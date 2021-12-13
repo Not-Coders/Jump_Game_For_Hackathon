@@ -5,7 +5,7 @@ Download the App Now : https://mega.nz/file/QJpGGYAA#DTf7tESS_RmPa3F5pV1vm4o0XHv
 
 ### Installing
 
-- git clone 
+- git clone https://github.com/Not-Coders/Jump_Game_For_Hackathon/archive/master.zip
 - open your favourite IDE
 - flutter packages get
 - flutter run
